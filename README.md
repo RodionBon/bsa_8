@@ -1,4 +1,5 @@
 # bsa_8
+```mermaid
 erDiagram
     character {
         BIGINT id
